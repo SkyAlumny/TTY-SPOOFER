@@ -15,3 +15,5 @@ ToDo List:
 - Add Documentation
 - More Code Comments
 - Check if Serials changed
+
+Discord: https://discord.gg/mgQJtGdpdt
