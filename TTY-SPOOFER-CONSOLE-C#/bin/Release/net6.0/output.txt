@@ -1,0 +1,65 @@
+
+
+    ===========[CPU SERIAL]===========
+
+SerialNumber  
+17129-6983    
+
+
+    ===========[BASEBOARD SERIAL]===========
+
+SerialNumber             
+17122-18254-26205-14828  
+
+
+    ===========[CHASSIS SERIAL]===========
+
+SerialNumber       
+17122-18254-26205  
+
+
+    ===========[CHASSIS SERIAL]===========
+
+SerialNumber       
+17122-18254-26205  
+
+
+    ===========[BIOS SERIAL]===========
+
+SerialNumber       
+17122-18254-26205  
+
+
+    ===========[UUID SERIAL]===========
+
+UUID                                  
+8C8919B4-861E-11EE-B0F0-F8C702865C16  
+
+
+    ===========[MAC SERIAL]===========
+
+
+Physical Address    Transport Name                                            
+=================== ==========================================================
+12-D8-21-5A-94-C9   \Device\Tcpip_{49A2C54F-089C-4720-A7C2-143DD72C4CA8}      
+02-69-76-4B-8D-E4   Media disconnected                                        
+02-8D-47-72-5A-85   Media disconnected                                        
+02-68-1A-B8-AC-1D   Media disconnected                                        
+N/A                 Media disconnected                                        
+
+    ===========[VOLUMEID SERIAL]===========
+
+ Volume in drive C has no label.
+ Volume Serial Number is 5355-6256
+
+    ===========[SID SERIAL]===========
+
+SID                                           
+S-1-5-21-244128719-675080978-2579834857-500   
+S-1-5-21-244128719-675080978-2579834857-503   
+S-1-5-21-244128719-675080978-2579834857-1003  
+S-1-5-21-244128719-675080978-2579834857-1001  
+S-1-5-21-244128719-675080978-2579834857-501   
+S-1-5-21-244128719-675080978-2579834857-504   
+
+

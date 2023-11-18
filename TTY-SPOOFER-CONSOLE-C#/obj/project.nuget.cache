@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9DdF3wjDk5RAGpHzUcsyYa4FBaEg3Nh1mLszPjU4PK7QQg465g1QnW6Opg74HGCjgSdoX51KwnFAA0siNsV5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Demian\\Projects\\TTY-SPOOFER-CONSOLE-C#\\TTY-SPOOFER-CONSOLE-C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Demian\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Demian\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

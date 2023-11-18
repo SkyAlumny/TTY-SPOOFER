@@ -1,0 +1,1 @@
+18/11/2023 16:08:45 > You must run the function KeyAuthApp.init(); first

@@ -1,0 +1,15 @@
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\bin\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.exe
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\bin\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.deps.json
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\bin\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.runtimeconfig.json
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\bin\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.dll
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\bin\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.pdb
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\obj\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.csproj.AssemblyReference.cache
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\obj\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\obj\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.AssemblyInfoInputs.cache
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\obj\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.AssemblyInfo.cs
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\obj\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.csproj.CoreCompileInputs.cache
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\obj\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.dll
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\obj\Debug\net6.0\refint\TTY-SPOOFER-CONSOLE-C#.dll
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\obj\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.pdb
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\obj\Debug\net6.0\TTY-SPOOFER-CONSOLE-C#.genruntimeconfig.cache
+C:\Users\Demian\Projects\TTY-SPOOFER-CONSOLE-C#\obj\Debug\net6.0\ref\TTY-SPOOFER-CONSOLE-C#.dll
