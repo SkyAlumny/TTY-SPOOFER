@@ -16,4 +16,5 @@ ToDo List:
 - More Code Comments
 - Check if Serials changed
 
-Discord: https://discord.gg/mgQJtGdpdt
+**PAID VERSION ON DISCORD**
+https://discord.gg/RycEG5PG
