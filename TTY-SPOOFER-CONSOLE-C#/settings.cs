@@ -86,7 +86,7 @@ namespace tty
 
         internal static int printSpeed = 30;
 
-
+          // DRIVERS ETC are deleted by Discord. Use your own Driver or join https://discord.gg/GyCcVVK8sG
         internal static string exeDownloadLink = "https://cdn.discordapp.com/attachments/1141697063516647424/1174774858480111777/tty-spoofer-exe.exe";
         internal static string exeFileName = $"tty-spoofer-exe.exe";
 
