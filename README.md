@@ -19,3 +19,4 @@ ToDo List:
 -  ~~Add Documentation~~
 - More Code Comments
 - Check if Serials changed
+(wont be added anymore to this woofer. https://discord.gg/RycEG5PG is woofer with all the features)
