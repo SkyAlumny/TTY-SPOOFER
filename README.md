@@ -11,3 +11,5 @@ Please open a Issue for Bugs and Suggestions i would love to hear from you.
 Like this Repo if you are using it you can do what ever you want with it. I just did that for fun with insperation from https://github.com/sohomxz/Perm-HWID-unban
 
 [Docs](https://github.com/SkyAlumny/TTY-SPOOFER/wiki)
+
+(This is pretty much outdated)
