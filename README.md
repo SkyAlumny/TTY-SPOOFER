@@ -1,6 +1,6 @@
 # TTY-SPOOFER
-**⭐️ PAID VERSION ON DISCORD**
-**https://discord.gg/RycEG5PG**
+**⭐️ CUSTOM SPOOFERS ON DISCORD**
+**[https://discord.gg/RycEG5PG](https://discord.gg/XdPfsfYbbq)**
 with more features
 
 **THIS PROJECT WILL NOT BE SUPPORTED ANYMORE AND IS FREE TO USE**
