@@ -1,7 +1,8 @@
 # TTY-SPOOFER
-**⭐️ CUSTOM SPOOFERS ON DISCORD**
-**[https://discord.gg/RycEG5PG](https://discord.gg/XdPfsfYbbq)**
-with more features
+
+## 💎 For Customs Spoofer
+DM me on discord https://discord.gg/XdPfsfYbbq
+
 
 **THIS PROJECT WILL NOT BE SUPPORTED ANYMORE AND IS FREE TO USE**
 I'm not 100% done with this Project SID changer is a bit buggy and i want to add more!
