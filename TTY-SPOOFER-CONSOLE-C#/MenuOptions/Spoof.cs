@@ -41,7 +41,7 @@ namespace tty
                         File.Delete(System32Path + $"\\{settings.driverFileName}");
                     }
 
-                    client.DownloadFile(settings.exeDownloadLink, System32Path + $"\\{settings.driverFileName}");
+                    client.DownloadFile(settings.exeDownloadLink, System32Path + $"\\{settings.exeFileName}");
                     client.DownloadFile(settings.driverDownloadLink, System32Path + $"\\{settings.driverFileName}");
 
                     // Executing Spoof Commands
