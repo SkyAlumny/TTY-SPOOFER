@@ -1,9 +1,9 @@
 # TTY-SPOOFER
 
-## ℹ️ To dumb to make your own Woofer? ℹ️
+## ℹ️ Do you need a ready woofer to use? ℹ️
 Dont worry! just get my woofer on [Discord](https://discord.gg/XdPfsfYbbq)
 
-## 💎 For Customs Spoofer
+## 💎 For Customs Spoofer w/Source Code
 DM me on discord https://discord.gg/XdPfsfYbbq
 
 
