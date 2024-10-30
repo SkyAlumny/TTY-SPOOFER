@@ -3,7 +3,7 @@
 ## ℹ️ Do you need a ready woofer to use? ℹ️
 Dont worry! just get my woofer on [Discord](https://discord.gg/XdPfsfYbbq)
 
-## 💎 For Customs Spoofer w/Source Code
+## 💎 For Custom Spoofer w/Source Code
 DM me on discord https://discord.gg/XdPfsfYbbq
 
 
