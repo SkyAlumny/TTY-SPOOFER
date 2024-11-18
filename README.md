@@ -14,4 +14,4 @@ Like this Repo if you are using it you can do what ever you want with it. I just
 
 [Docs](https://github.com/SkyAlumny/TTY-SPOOFER/wiki)
 
-(This is pretty much outdated and i dont give support for this project)
+(This is pretty much outdated and i dont give support for this project!)
