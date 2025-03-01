@@ -6,7 +6,6 @@ Dont worry! just get my woofer on [Discord](https://discord.gg/XdPfsfYbbq)
 ## 💎 For Custom Spoofer w/Source Code
 DM me on discord https://discord.gg/XdPfsfYbbq
 
-
 **THIS PROJECT WILL NOT BE SUPPORTED ANYMORE AND IS FREE TO USE**
 I'm not 100% done with this Project. SID changer is a bit buggy.
 
