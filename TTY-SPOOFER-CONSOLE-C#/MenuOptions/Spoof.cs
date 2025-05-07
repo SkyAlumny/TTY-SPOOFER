@@ -235,7 +235,7 @@ namespace tty
                         framework.SpoofText();
                         framework.InvisibleText();
                         functions.CMD($"{settings.VolumeIDFilename} {drive.Name} {framework.GenerateRandomString(4)}-{framework.GenerateRandomString(4)}", System32Path);
-
+                        // Made by https://github.com/SkyAlumny
                     }
 
 
